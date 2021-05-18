@@ -16,5 +16,10 @@ This application was developed using html css and vanilla javascript.
 git clone https://github.com/erolemre1/hangman.git
 ```
 
+### Usage
 
+```
+cd hangman
+```
 
+and open index.html file wıth your default browser. That's it :sunny:
